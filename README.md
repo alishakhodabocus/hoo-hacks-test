@@ -1,3 +1,2 @@
 # hoo-hacks-test
-testing this out ...
-print('hi')
+
